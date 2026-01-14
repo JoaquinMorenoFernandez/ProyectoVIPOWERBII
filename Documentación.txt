@@ -1,0 +1,10 @@
+Documentación de ETL
+
+En el Power Query hicimos las siguientes operaciones;
+limpiar los datos que eran erroneos e irrelevantes, y sustituir
+los datos nulos o vacios por 0 o Unknown, para que no rompiesen
+las tablas y análisis.
+
+También se transformaron los datos a tipos adecuados, como price a currency;
+y fechas a date, etc. y dejar solo las columnas con texto plano como Text.
+
